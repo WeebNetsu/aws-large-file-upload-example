@@ -19,7 +19,7 @@ This is a simple example showing you how to do multi-part file uploads in JavaSc
 
 ## Tutorial
 
-You can watch the YouTube tutorial right here: [(Coming Soon)](https://www.youtube.com/@Stevesteacher)
+You can watch the YouTube tutorial right here: [YouTube](https://youtu.be/SQWJ_goOxGs)
 
 ---
 
